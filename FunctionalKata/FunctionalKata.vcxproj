@@ -147,6 +147,8 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ApprovalTests.hpp" />
+    <ClInclude Include="ApprovalTests.v.0.1.0.hpp" />
     <ClInclude Include="Catch.hpp" />
     <ClInclude Include="Lesson1Straight.h" />
     <ClInclude Include="Lesson21.h" />

@@ -45,6 +45,12 @@
     <ClInclude Include="Lesson31.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ApprovalTests.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ApprovalTests.v.0.1.0.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
